@@ -1,30 +1,40 @@
 #!/usr/bin/env python
+'''
+lunar-eclipse-20180130.py
+
+A simple python script to calculate the separation of
+the Moon from the center of Earth's umbra. When the
+separation is the lowest, then it is the peak of the eclipse.
+
+This is for the lunar eclipse on January 31, 2018
+'''
+
 import ephem
 from datetime import datetime, timedelta
 
-starttime = datetime(2018, 1, 31, 10, 0, 0)
+curtime = datetime(2018, 1, 31, 10, 0, 0)
 endtime = datetime(2018, 1, 31, 17, 0, 0)
-resdelta = timedelta(seconds = 300)
+resdelta = timedelta(seconds = 60)   # resolution
 
-curtime = starttime
 moon = ephem.Moon()
 sun = ephem.Sun()
+observer = ephem.Observer()
+observer.elevation = -6371000  # place observer in the center of the Earth
+observer.pressure = 0          # disable refraction
 
 while curtime <= endtime:
-    curtimes = curtime.strftime('%Y/%m/%d %H:%M:%S')
+    observer.date = curtime.strftime('%Y/%m/%d %H:%M:%S')
 
-    observer = ephem.Observer()
-    observer.lon = 0
-    observer.lat = 0
-    observer.elevation = -6371000
-    observer.date = curtimes
-    observer.temp = -272
-    observer.pressure = 0
-
+    # computer the position of the sun and the moon with respect to the observer
     moon.compute(observer)
     sun.compute(observer)
-    sep = abs((float(ephem.separation(moon, sun)) / 0.01745329252) - 180)
 
-    print(curtimes, sep)
+    # calculate separation between the moon and the sun, convert
+    # it from radians to degrees, substract it by 180°
+    sep = abs((float(ephem.separation(moon, sun))
+        / 0.01745329252) - 180)
 
+    print(curtime.strftime('%Y/%m/%d %H:%M:%S'), sep)
+
+    # advance by time interval defined in resdelta
     curtime += resdelta
