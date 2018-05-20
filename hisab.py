@@ -6,7 +6,7 @@ import ephem
 from datetime import datetime, timedelta
 
 curtime = datetime(2000, 1, 1, 5, 0, 0)        # start time
-endtime = datetime(2020, 12, 1, 5, 0, 0)        # start time
+endtime = datetime(2020, 12, 1, 5, 0, 0)        # end time
 
 moon = ephem.Moon()
 sun = ephem.Sun()

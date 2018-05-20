@@ -1,0 +1,259 @@
+2000-1-7: Masuk bulan baru. Ketinggian bulan: 5.629159741716134°
+2000-2-6: Masuk bulan baru. Ketinggian bulan: 8.793506556336837°
+2000-3-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.8009527896902897°
+2000-4-5: Masuk bulan baru. Ketinggian bulan: 8.559783459355284°
+2000-5-4: Masuk bulan baru. Ketinggian bulan: 3.612702202966862°
+2000-6-3: Masuk bulan baru. Ketinggian bulan: 11.643089652587225°
+2000-7-2: Masuk bulan baru. Ketinggian bulan: 7.425084986318398°
+2000-7-31: Masuk bulan baru. Ketinggian bulan: 3.50506653249745°
+2000-8-30: Masuk bulan baru. Ketinggian bulan: 12.757252308110887°
+2000-9-28: Masuk bulan baru. Ketinggian bulan: 7.416767523456642°
+2000-10-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.0336997187282946°
+2000-11-26: Masuk bulan baru. Ketinggian bulan: 4.136949530728079°
+2000-12-26: Masuk bulan baru. Ketinggian bulan: 6.289770515595744°
+2001-1-25: Masuk bulan baru. Ketinggian bulan: 8.564378469119394°
+2001-2-23: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.5817783235555494°
+2001-3-25: Masuk bulan baru. Ketinggian bulan: 4.844049560306407°
+2001-4-24: Masuk bulan baru. Ketinggian bulan: 8.9224963863594°
+2001-5-23: Masuk bulan baru. Ketinggian bulan: 3.2217859307759724°
+2001-6-22: Masuk bulan baru. Ketinggian bulan: 11.003148738683299°
+2001-7-21: Masuk bulan baru. Ketinggian bulan: 7.334252008093986°
+2001-8-19: Masuk bulan baru. Ketinggian bulan: 3.921649588372106°
+2001-9-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.2801082189758549°
+2001-10-17: Masuk bulan baru. Ketinggian bulan: 7.75476967981738°
+2001-11-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1049894980249537°
+2001-12-15: Masuk bulan baru. Ketinggian bulan: 5.458421234165649°
+2002-1-14: Masuk bulan baru. Ketinggian bulan: 9.052110324917372°
+2002-2-12: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8958957352756534°
+2002-3-14: Masuk bulan baru. Ketinggian bulan: 4.406410738767962°
+2002-4-13: Masuk bulan baru. Ketinggian bulan: 6.442802184609851°
+2002-5-13: Masuk bulan baru. Ketinggian bulan: 9.485222011696584°
+2002-6-11: Masuk bulan baru. Ketinggian bulan: 3.6916860836418097°
+2002-7-11: Masuk bulan baru. Ketinggian bulan: 11.52968802179787°
+2002-8-9: Masuk bulan baru. Ketinggian bulan: 7.901538492249429°
+2002-9-7: Masuk bulan baru. Ketinggian bulan: 4.051973439716934°
+2002-10-7: Masuk bulan baru. Ketinggian bulan: 12.565651841514311°
+2002-11-5: Masuk bulan baru. Ketinggian bulan: 6.694713648464266°
+2002-12-4: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.47947943981589597°
+2003-1-3: Masuk bulan baru. Ketinggian bulan: 6.7048082411706895°
+2003-2-1: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.6360201718769394°
+2003-3-3: Masuk bulan baru. Ketinggian bulan: 4.299077304169322°
+2003-4-2: Masuk bulan baru. Ketinggian bulan: 6.223014381082372°
+2003-5-2: Masuk bulan baru. Ketinggian bulan: 7.888830071525016°
+2003-5-31: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1236279103310944°
+2003-6-30: Masuk bulan baru. Ketinggian bulan: 5.9102288562504155°
+2003-7-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.2273352615324096°
+2003-8-28: Masuk bulan baru. Ketinggian bulan: 8.59451411751104°
+2003-9-26: Masuk bulan baru. Ketinggian bulan: 3.5247722685831073°
+2003-10-26: Masuk bulan baru. Ketinggian bulan: 10.806382941526918°
+2003-11-24: Masuk bulan baru. Ketinggian bulan: 5.13823946823624°
+2003-12-24: Masuk bulan baru. Ketinggian bulan: 13.445136881119915°
+2004-1-22: Masuk bulan baru. Ketinggian bulan: 7.436044024841648°
+2004-2-20: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.5885172656670972°
+2004-3-21: Masuk bulan baru. Ketinggian bulan: 5.130817187042576°
+2004-4-20: Masuk bulan baru. Ketinggian bulan: 7.351083301756135°
+2004-5-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.6042070183529745°
+2004-6-18: Masuk bulan baru. Ketinggian bulan: 4.29859065319096°
+2004-7-18: Masuk bulan baru. Ketinggian bulan: 9.541536067629508°
+2004-8-16: Masuk bulan baru. Ketinggian bulan: 3.8828908261533486°
+2004-9-15: Masuk bulan baru. Ketinggian bulan: 8.905805965348883°
+2004-10-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6610252654856317°
+2004-11-13: Masuk bulan baru. Ketinggian bulan: 9.269721859420564°
+2004-12-12: Masuk bulan baru. Ketinggian bulan: 4.1212289965797°
+2005-1-11: Masuk bulan baru. Ketinggian bulan: 12.839931748013623°
+2005-2-9: Masuk bulan baru. Ketinggian bulan: 6.80571190643943°
+2005-3-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.8445031585544388°
+2005-4-9: Masuk bulan baru. Ketinggian bulan: 4.768993892177849°
+2005-5-9: Masuk bulan baru. Ketinggian bulan: 8.88490814780965°
+2005-6-7: Masuk bulan baru. Ketinggian bulan: 3.4134482959619006°
+2005-7-7: Masuk bulan baru. Ketinggian bulan: 8.761464431393119°
+2005-8-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.733629536032397°
+2005-9-4: Masuk bulan baru. Ketinggian bulan: 6.069181445501259°
+2005-10-4: Masuk bulan baru. Ketinggian bulan: 9.217364190564355°
+2005-11-2: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.5197654275060026°
+2005-12-2: Masuk bulan baru. Ketinggian bulan: 8.951153298795742°
+2005-12-31: Masuk bulan baru. Ketinggian bulan: 3.7600955508211427°
+2006-1-30: Masuk bulan baru. Ketinggian bulan: 11.0230749618131°
+2006-2-28: Masuk bulan baru. Ketinggian bulan: 4.626342403154835°
+2006-3-30: Masuk bulan baru. Ketinggian bulan: 9.749598143899407°
+2006-4-28: Masuk bulan baru. Ketinggian bulan: 4.39841770989178°
+2006-5-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.0894902524130204°
+2006-6-26: Masuk bulan baru. Ketinggian bulan: 7.208260631117048°
+2006-7-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9757581490325913°
+2006-8-24: Masuk bulan baru. Ketinggian bulan: 5.682768615850921°
+2006-9-23: Masuk bulan baru. Ketinggian bulan: 7.833457727923902°
+2006-10-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.38869656743234826°
+2006-11-21: Masuk bulan baru. Ketinggian bulan: 3.920178109492796°
+2006-12-21: Masuk bulan baru. Ketinggian bulan: 9.568108064821711°
+2007-1-19: Masuk bulan baru. Ketinggian bulan: 3.23657713231041°
+2007-2-18: Masuk bulan baru. Ketinggian bulan: 8.16013884573538°
+2007-3-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9056795543748417°
+2007-4-18: Masuk bulan baru. Ketinggian bulan: 8.465727485616283°
+2007-5-17: Masuk bulan baru. Ketinggian bulan: 4.938886310044902°
+2007-6-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8678095705218292°
+2007-7-15: Masuk bulan baru. Ketinggian bulan: 10.357330446998596°
+2007-8-13: Masuk bulan baru. Ketinggian bulan: 4.321800062877411°
+2007-9-12: Masuk bulan baru. Ketinggian bulan: 7.623463561892542°
+2007-10-11: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.25021853743560935°
+2007-11-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.872073415083286°
+2007-12-10: Masuk bulan baru. Ketinggian bulan: 6.4817077958957645°
+2008-1-9: Masuk bulan baru. Ketinggian bulan: 9.960078107135484°
+2008-2-7: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.1716567256077943°
+2008-3-8: Masuk bulan baru. Ketinggian bulan: 5.513893469283373°
+2008-4-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.1757674611105156°
+2008-5-6: Masuk bulan baru. Ketinggian bulan: 8.51399557870696°
+2008-6-4: Masuk bulan baru. Ketinggian bulan: 6.1699540565153°
+2008-7-3: Masuk bulan baru. Ketinggian bulan: 3.231147985693914°
+2008-8-2: Masuk bulan baru. Ketinggian bulan: 11.582028615181155°
+2008-8-31: Masuk bulan baru. Ketinggian bulan: 5.160751771740529°
+2008-9-30: Masuk bulan baru. Ketinggian bulan: 9.414669572665165°
+2008-10-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6479921973322322°
+2008-11-28: Masuk bulan baru. Ketinggian bulan: 6.28835581266391°
+2008-12-28: Masuk bulan baru. Ketinggian bulan: 8.76184862953393°
+2009-1-26: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.19937071391193859°
+2009-2-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.3292471267556636°
+2009-3-27: Masuk bulan baru. Ketinggian bulan: 4.531975228921776°
+2009-4-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.18370551496800658°
+2009-5-25: Masuk bulan baru. Ketinggian bulan: 9.623126092359632°
+2009-6-23: Masuk bulan baru. Ketinggian bulan: 7.017919053761866°
+2009-7-22: Masuk bulan baru. Ketinggian bulan: 3.1839313148485924°
+2009-8-21: Masuk bulan baru. Ketinggian bulan: 11.22340270262163°
+2009-9-19: Masuk bulan baru. Ketinggian bulan: 5.413698863027843°
+2009-10-18: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.059978966020834926°
+2009-11-17: Masuk bulan baru. Ketinggian bulan: 5.470174709066733°
+2009-12-17: Masuk bulan baru. Ketinggian bulan: 9.06779500057261°
+2010-1-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.2967154770971432°
+2010-2-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.623572418918896°
+2010-3-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8187777769045825°
+2010-4-15: Masuk bulan baru. Ketinggian bulan: 5.892245821939477°
+2010-5-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8876075141612814°
+2010-6-13: Masuk bulan baru. Ketinggian bulan: 10.906013203402278°
+2010-7-12: Masuk bulan baru. Ketinggian bulan: 6.9240543253196245°
+2010-8-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.208797800210322°
+2010-9-9: Masuk bulan baru. Ketinggian bulan: 10.560678838967556°
+2010-10-8: Masuk bulan baru. Ketinggian bulan: 5.824234640166119°
+2010-11-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.0588929782035106°
+2010-12-6: Masuk bulan baru. Ketinggian bulan: 7.280481343853235°
+2011-1-5: Masuk bulan baru. Ketinggian bulan: 10.082399964980844°
+2011-2-3: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.8638534046381393°
+2011-3-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.824784074505943°
+2011-4-4: Masuk bulan baru. Ketinggian bulan: 4.334702290219523°
+2011-5-4: Masuk bulan baru. Ketinggian bulan: 9.307085555501352°
+2011-6-2: Masuk bulan baru. Ketinggian bulan: 4.7353334392876665°
+2011-7-2: Masuk bulan baru. Ketinggian bulan: 11.872985282312644°
+2011-7-31: Masuk bulan baru. Ketinggian bulan: 6.499640457561575°
+2011-8-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.493574861439878°
+2011-9-28: Masuk bulan baru. Ketinggian bulan: 10.325428340932863°
+2011-10-27: Masuk bulan baru. Ketinggian bulan: 6.144428785813399°
+2011-11-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1376130428217675°
+2011-12-25: Masuk bulan baru. Ketinggian bulan: 7.083082046651338°
+2012-1-24: Masuk bulan baru. Ketinggian bulan: 9.875150681222173°
+2012-2-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.6539221966635747°
+2012-3-23: Masuk bulan baru. Ketinggian bulan: 4.560389242755759°
+2012-4-22: Masuk bulan baru. Ketinggian bulan: 8.656800320099476°
+2012-5-21: Masuk bulan baru. Ketinggian bulan: 3.1724811430353377°
+2012-6-20: Masuk bulan baru. Ketinggian bulan: 7.839546841568949°
+2012-7-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.3489918162639312°
+2012-8-18: Masuk bulan baru. Ketinggian bulan: 6.759345594145771°
+2012-9-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.7233462670997686°
+2012-10-16: Masuk bulan baru. Ketinggian bulan: 10.39139943057851°
+2012-11-14: Masuk bulan baru. Ketinggian bulan: 5.712673745358078°
+2012-12-14: Masuk bulan baru. Ketinggian bulan: 13.398870033456046°
+2013-1-12: Masuk bulan baru. Ketinggian bulan: 5.486504837598535°
+2013-2-11: Masuk bulan baru. Ketinggian bulan: 9.79799259548973°
+2013-3-12: Masuk bulan baru. Ketinggian bulan: 3.3378223070376496°
+2013-4-11: Masuk bulan baru. Ketinggian bulan: 8.486405883328429°
+2013-5-10: Masuk bulan baru. Ketinggian bulan: 3.1207900579534376°
+2013-6-9: Masuk bulan baru. Ketinggian bulan: 7.3555596369834175°
+2013-7-8: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.31330029697979095°
+2013-8-7: Masuk bulan baru. Ketinggian bulan: 3.499772709003884°
+2013-9-6: Masuk bulan baru. Ketinggian bulan: 8.270084400804718°
+2013-10-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.9469365572546136°
+2013-11-4: Masuk bulan baru. Ketinggian bulan: 10.420741069479142°
+2013-12-3: Masuk bulan baru. Ketinggian bulan: 4.439137163289148°
+2014-1-2: Masuk bulan baru. Ketinggian bulan: 11.009619489148218°
+2014-1-31: Masuk bulan baru. Ketinggian bulan: 3.8864779561280627°
+2014-3-2: Masuk bulan baru. Ketinggian bulan: 10.435652226210879°
+2014-3-31: Masuk bulan baru. Ketinggian bulan: 5.571965445153926°
+2014-4-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1594478769377579°
+2014-5-29: Masuk bulan baru. Ketinggian bulan: 6.842865574203239°
+2014-6-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.28182254309666965°
+2014-7-27: Masuk bulan baru. Ketinggian bulan: 3.3128041778816204°
+2014-8-26: Masuk bulan baru. Ketinggian bulan: 6.608280165838975°
+2014-9-24: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.31184495975848053°
+2014-10-24: Masuk bulan baru. Ketinggian bulan: 4.836825781485495°
+2014-11-23: Masuk bulan baru. Ketinggian bulan: 10.283440606783993°
+2014-12-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.960412947373828°
+2015-1-21: Masuk bulan baru. Ketinggian bulan: 8.853860669163812°
+2015-2-19: Masuk bulan baru. Ketinggian bulan: 3.071901271421938°
+2015-3-21: Masuk bulan baru. Ketinggian bulan: 11.396180021639358°
+2015-4-19: Masuk bulan baru. Ketinggian bulan: 7.445679714213211°
+2015-5-18: Masuk bulan baru. Ketinggian bulan: 3.067716926781672°
+2015-6-17: Masuk bulan baru. Ketinggian bulan: 9.485362030574567°
+2015-7-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.758912548462175°
+2015-8-15: Masuk bulan baru. Ketinggian bulan: 6.793391952724059°
+2015-9-13: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.28054465739164675°
+2015-10-13: Masuk bulan baru. Ketinggian bulan: 3.641943950350884°
+2015-11-12: Masuk bulan baru. Ketinggian bulan: 6.875505340699331°
+2015-12-12: Masuk bulan baru. Ketinggian bulan: 10.176214320777957°
+2016-1-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.2050875133871366°
+2016-2-9: Masuk bulan baru. Ketinggian bulan: 7.887269373299673°
+2016-3-9: Masuk bulan baru. Ketinggian bulan: 3.133634228687605°
+2016-4-8: Masuk bulan baru. Ketinggian bulan: 12.117329323453532°
+2016-5-7: Masuk bulan baru. Ketinggian bulan: 8.334741532808788°
+2016-6-5: Masuk bulan baru. Ketinggian bulan: 3.762914284514233°
+2016-7-5: Masuk bulan baru. Ketinggian bulan: 11.184260596035708°
+2016-8-3: Masuk bulan baru. Ketinggian bulan: 5.115318207155398°
+2016-9-2: Masuk bulan baru. Ketinggian bulan: 10.461422529949253°
+2016-10-1: Masuk bulan baru. Ketinggian bulan: 3.8683664288833635°
+2016-10-31: Masuk bulan baru. Ketinggian bulan: 6.871961753180576°
+2016-11-30: Masuk bulan baru. Ketinggian bulan: 8.761513096490955°
+2016-12-30: Masuk bulan baru. Ketinggian bulan: 10.697157971415015°
+2017-1-28: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.890572555563382°
+2017-2-27: Masuk bulan baru. Ketinggian bulan: 8.383229899500197°
+2017-3-28: Masuk bulan baru. Ketinggian bulan: 3.863412834187828°
+2017-4-27: Masuk bulan baru. Ketinggian bulan: 12.296100987241573°
+2017-5-26: Masuk bulan baru. Ketinggian bulan: 8.162620765725025°
+2017-6-24: Masuk bulan baru. Ketinggian bulan: 3.526504788754758°
+2017-7-24: Masuk bulan baru. Ketinggian bulan: 12.291675024659419°
+2017-8-22: Masuk bulan baru. Ketinggian bulan: 7.18043358666486°
+2017-9-20: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.983601340633856°
+2017-10-20: Masuk bulan baru. Ketinggian bulan: 6.793836341906932°
+2017-11-19: Masuk bulan baru. Ketinggian bulan: 9.406481883397639°
+2017-12-18: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.3692843160375888°
+2018-1-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9811802520165058°
+2018-2-16: Masuk bulan baru. Ketinggian bulan: 5.11055841907756°
+2018-3-18: Masuk bulan baru. Ketinggian bulan: 9.903238126636468°
+2018-4-16: Masuk bulan baru. Ketinggian bulan: 4.801188842604246°
+2018-5-16: Masuk bulan baru. Ketinggian bulan: 11.920494370631806°
+2018-6-14: Masuk bulan baru. Ketinggian bulan: 7.390227115889351°
+2018-7-13: Masuk bulan baru. Ketinggian bulan: 3.074254058147588°
+2018-8-12: Masuk bulan baru. Ketinggian bulan: 13.028501318166015°
+2018-9-10: Masuk bulan baru. Ketinggian bulan: 8.58667562166483°
+2018-10-9: Masuk bulan baru. Ketinggian bulan: 3.3802443985290496°
+2018-11-8: Masuk bulan baru. Ketinggian bulan: 8.463844060952658°
+2018-12-7: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.37217260560242216°
+2019-1-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6404064184853113°
+2019-2-5: Masuk bulan baru. Ketinggian bulan: 5.150665716770568°
+2019-3-7: Masuk bulan baru. Ketinggian bulan: 8.098893393221722°
+2019-4-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.7793760164084937°
+2019-5-5: Masuk bulan baru. Ketinggian bulan: 5.58181841991846°
+2019-6-4: Masuk bulan baru. Ketinggian bulan: 11.543834197342568°
+2019-7-3: Masuk bulan baru. Ketinggian bulan: 6.990004924397761°
+2019-8-1: Masuk bulan baru. Ketinggian bulan: 3.139253980270626°
+2019-8-31: Masuk bulan baru. Ketinggian bulan: 13.367547639696115°
+2019-9-29: Masuk bulan baru. Ketinggian bulan: 8.91799699924367°
+2019-10-28: Masuk bulan baru. Ketinggian bulan: 3.303854709078229°
+2019-11-27: Masuk bulan baru. Ketinggian bulan: 8.972001597463493°
+2019-12-26: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.443019188585783°
+2020-1-25: Masuk bulan baru. Ketinggian bulan: 5.397297017509757°
+2020-2-24: Masuk bulan baru. Ketinggian bulan: 8.474759557019949°
+2020-3-24: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.615767586021244°
+2020-4-23: Masuk bulan baru. Ketinggian bulan: 3.6451716416205278°
+2020-5-23: Masuk bulan baru. Ketinggian bulan: 6.577748793362294°
+2020-6-21: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.628426388902085°
+2020-7-21: Masuk bulan baru. Ketinggian bulan: 7.818987118393631°
+2020-8-19: Masuk bulan baru. Ketinggian bulan: 3.9048396390511133°
+2020-9-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.03621293927272262°
+2020-10-17: Masuk bulan baru. Ketinggian bulan: 7.961628789019714°
+2020-11-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9895549177125607°
