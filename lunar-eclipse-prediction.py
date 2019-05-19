@@ -11,27 +11,33 @@ should be computed from the distance of the Moon and the Sun.
 import ephem
 from datetime import datetime, timedelta
 
-curtime = datetime(2001, 1, 1, 0, 0, 0)        # start time
-endtime = datetime(2100, 12, 31, 23, 59, 59)   # end time
+# start and end time
+curtime = datetime(2001, 1, 1, 0, 0, 0)
+endtime = datetime(2100, 12, 31, 23, 59, 59)
+
+# initialize Moon, Sun & observer
 moon = ephem.Moon()
 sun = ephem.Sun()
 observer = ephem.Observer()
-observer.elevation = -6371000    # place observer in the center of the Earth
-observer.pressure = 0            # disable refraction
+observer.elevation = -6371000  # place the observer at the center of the Earth
+observer.pressure = 0          # disable atmospheric refraction
 
+# loop every hour
 while curtime <= endtime:
-    observer.date = curtime.strftime('%Y/%m/%d %H:%M:%S')
+    observer.date = curtime
 
     # computer the position of the sun and the moon with respect to the observer
     moon.compute(observer)
     sun.compute(observer)
 
     # calculate separation between the moon and the sun, convert
-    # it from radians to degrees, substract it by 180°
+    # it from radians to degrees, subtract it by 180°.
+    # this is basically the separation of the moon from the Earth's
+    # center of umbra.
     sep = abs((float(ephem.separation(moon, sun))
         / 0.01745329252) - 180)
 
-    # eclipse happens if Sun-Earth-Moon alignment is less than 0.9°.
+    # eclipse occurs if separation is less than 0.9°.
     # this should detect all total and partial eclipses, but is
     # hit-and-miss for penumbral eclipses.
     # the number is hardcoded for simplicity. for accuracy it should
