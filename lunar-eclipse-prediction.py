@@ -4,7 +4,7 @@ lunar-eclipse-prediction.py
 
 Shows the occurences of a lunar eclipse in the 21st century.
 Works by iterating every hour in the 21st century and calculating if the
-separation between the Moon and the Sun is less than 0.9° from 180°.
+separation between the Moon and the Sun is more than 180°-0.9° (= 179.1°).
 The number 0.9° is hardcoded for simplicity, for more accuracy, it
 should be computed from the distance of the Moon and the Sun.
 '''
@@ -30,14 +30,14 @@ while curtime <= endtime:
     moon.compute(observer)
     sun.compute(observer)
 
-    # calculate separation between the moon and the sun, convert
+    # calculate the separation between the moon and the sun, convert
     # it from radians to degrees, subtract it by 180°.
     # this is basically the separation of the moon from the Earth's
     # center of umbra.
     sep = abs((float(ephem.separation(moon, sun))
         / 0.01745329252) - 180)
 
-    # eclipse occurs if separation is less than 0.9°.
+    # eclipse occurs if the separation is less than 0.9°.
     # this should detect all total and partial eclipses, but is
     # hit-and-miss for penumbral eclipses.
     # the number is hardcoded for simplicity. for accuracy it should
